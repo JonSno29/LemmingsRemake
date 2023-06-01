@@ -4,7 +4,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: rgb(234, 250, 128);
     overflow: hidden;
 }
 
@@ -67,7 +67,7 @@ canvas {
 .level_name {
     display: block;
     position: relative;
-    color: white;
+    color: rgb(6, 244, 10);
     bottom: 22px;
     left: 2px;
     font-size: 15px;
