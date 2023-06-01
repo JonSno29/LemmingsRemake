@@ -4,7 +4,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(234, 250, 128);
+    background-color: rgb(104, 105, 103);
     overflow: hidden;
 }
 
@@ -83,7 +83,7 @@ canvas {
     position: relative;
     bottom: 95px;
     right: 73px;
-    float: right;
+    justify-content: right;
 }
 
 .game_container.small > .arrow_l {
@@ -95,7 +95,7 @@ canvas {
     position: relative;
     bottom: 95px;
     left: 25px;
-    float: right;
+    justify-content: right;
 }
 
 .game_container.small > .arrow_r {
